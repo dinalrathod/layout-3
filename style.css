@@ -1,0 +1,119 @@
+
+.container {
+	display: flex;
+    flex-wrap: wrap;
+    background-image: url("bg.jpg");
+    background-size: cover;
+    height: 1050px;
+	background-repeat: no-repeat;
+}
+
+.cor{
+	background-color: #effd5f;
+	margin-right: 20%;
+	color: white;
+	text-align: right;
+	padding-top: 10%;
+	font-size: 80px;
+	width: 400px;
+	position: relative;
+	left: 750px;
+}
+.u{
+	position: absolute;
+	left: 27%;
+	right: 60%;
+	top: -6%;
+}
+.inno{
+	color: white;
+	font-size: 120px;
+	position: relative;
+	top: 800px;
+	right: 12%;
+	letter-spacing: 50px;
+}
+.our{
+	color: white;
+	font-weight: bold;
+	position: absolute;
+	bottom: 35%;
+	left: 38.42%;
+	letter-spacing: 16px;
+}
+.logo
+{
+	height: 25%;
+	width: 23%;
+	position: absolute;
+	left: 40%;
+	bottom:38%;
+}
+.here{
+	color: #EFFD5F;
+	font-size: 180px;
+	font-weight: bold;
+	padding-left: 30%;
+
+}
+.horizontal-row
+{
+	position: relative;
+	top: 25%;
+	left: 30%;
+	width: 39%;
+	border-bottom: 5px solid black;
+}
+.or
+{
+padding-left: 29%;
+}
+.ser
+{
+	color: deepskyblue;
+	position: absolute;
+	top:94.80%;
+	left:34%;
+}
+.par
+{
+
+padding-left: 29%;
+}
+.prgrp
+{
+	position: absolute;
+	bottom: -20%;
+	right: 24%;
+}
+.ou
+{
+	position: absolute;
+	top:95%;
+	right: 38%;
+}
+.plan
+{
+	color: deepskyblue;
+	position: absolute;
+	top: 95%;
+	right:31%;
+}
+
+
+.folio
+{
+	position:absolute;
+	bottom: ;
+	left:57%;
+	height:10%;
+	width:10%;
+}
+.log
+{
+	position:absolute;
+	bottom: ;
+	left:68%;
+	height:8%;
+	width:5%;
+}
